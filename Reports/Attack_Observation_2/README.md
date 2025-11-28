@@ -1,12 +1,12 @@
 # Attack Observation Report 2  
 **Successful SSH compromise and malware deployment attempt**
 
-## 📌 Summary
+## Summary
 An attacker from **8.218.234.50** successfully authenticated into my SSH honeypot using **weak/default credentials (root/123456)**. Once inside, they attempted to download and execute a Linux malware sample linked to the **Dota3 cryptomining botnet**, using both `curl` and `wget`, followed by execution with persistence using `nohup`.
 
 ---
 
-## 🎯 Attack Objective
+## Attack Objective
 | Goal | Details |
 |------|---------|
 | Initial access | Weak SSH password exploitation |
@@ -16,7 +16,7 @@ An attacker from **8.218.234.50** successfully authenticated into my SSH honeypo
 
 ---
 
-## 🔍 Technique Mapping (MITRE ATT&CK)
+## Technique Mapping (MITRE ATT&CK)
 | Tactic | Technique |
 |--------|-----------|
 | Initial Access | Valid Accounts (T1078) |
@@ -26,7 +26,7 @@ An attacker from **8.218.234.50** successfully authenticated into my SSH honeypo
 
 ---
 
-## 🧪 Key IOCs
+## Key IOCs
 | Type | Value |
 |------|-------|
 | Attacker IP | 8.218.234.50 |
@@ -35,7 +35,7 @@ An attacker from **8.218.234.50** successfully authenticated into my SSH honeypo
 
 ---
 
-## 🛡 Recommended Mitigations
+## Recommended Mitigations
 - Disable root login and enforce strong SSH credentials  
 - Restrict SSH access to trusted IPs  
 - Deploy **fail2ban** or similar for brute force blocking  
