@@ -60,6 +60,7 @@ View full reports with PDFs here:
 
 ### Connect With Me
 🔗 LinkedIn:  www.linkedin.com/in/mitchell-patton22
+
 💼 Open to opportunities in **Offensive Security | Pentesting | Threat Research**
 
 Future Goals:
