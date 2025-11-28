@@ -1,5 +1,3 @@
-Reports/Attack_Observation_2/README.md
-
 # Attack Observation Report 2  
 **Successful SSH compromise and malware deployment attempt**
 
