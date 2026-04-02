@@ -1,6 +1,6 @@
 ## LAB: URL-Based Access Control Can Be Circumvented
 
-**Vuln:** Broken Access Control - backend trusts X-Original-URL header
+**Vulnerability:** Broken Access Control - backend trusts X-Original-URL header
 
 **Steps:**
 - Navigate to `/admin`, confirm Access Denied
