@@ -1,6 +1,6 @@
 ## LAB: Username Enumeration via Response Timing
 
-**Vuln:** Broken Authentication - server takes longer to hash passwords for valid usernames
+**Vulnerability:** Broken Authentication - server takes longer to hash passwords for valid usernames
 
 **Steps:**
 - Test if lockout exists after failed attempts
