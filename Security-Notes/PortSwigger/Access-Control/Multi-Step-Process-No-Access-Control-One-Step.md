@@ -1,6 +1,6 @@
 ## LAB: Multi-Step Process with No Access Control on One Step
 
-**Vuln:** Broken Access Control - confirmation step of multi-step flow has no auth check
+**Vulnerability:** Broken Access Control - confirmation step of multi-step flow has no auth check
 
 **Steps:**
 - As admin, upgrade a user and capture the confirmation POST request in Burp
