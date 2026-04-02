@@ -1,6 +1,6 @@
 ## LAB: User Role Can Be Modified in User Profile
 
-**Vuln:** Broken Access Control — role ID accepted in POST request body
+**Vuln:** Broken Access Control - role ID accepted in POST request body
 
 **Steps:**
 - Update your email and capture the POST request in Burp
