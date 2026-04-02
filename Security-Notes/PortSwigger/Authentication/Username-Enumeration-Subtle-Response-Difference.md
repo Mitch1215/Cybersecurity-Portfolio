@@ -1,6 +1,6 @@
 ## LAB: Username Enumeration via Subtly Different Responses
 
-**Vuln:** Broken Authentication - minor whitespace/punctuation difference in error reveals valid username
+**Vulnerability:** Broken Authentication - minor whitespace/punctuation difference in error reveals valid username
 
 **Steps:**
 - Submit invalid credentials and capture in Burp Intruder
