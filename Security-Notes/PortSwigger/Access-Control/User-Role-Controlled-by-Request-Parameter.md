@@ -12,6 +12,6 @@
 - `my-account?id=wiener`
 - `Admin=false` → `Admin=true`
 
-**Remember for bug bounty:** Look for any trust of client-supplied values
+**Bug Bounty Testing:** Look for any trust of client-supplied values
 like admin status in cookies or parameters, if the server doesn't verify
 server-side, you can just change it
