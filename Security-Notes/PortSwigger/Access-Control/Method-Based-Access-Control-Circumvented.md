@@ -1,6 +1,6 @@
 ## LAB: Method-Based Access Control Can Be Circumvented
 
-**Vuln:** Broken Access Control — server only restricts POST, not GET for privileged actions
+**Vuln:** Broken Access Control - server only restricts POST, not GET for privileged actions
 
 **Steps:**
 - As admin, capture the privilege upgrade request and note the parameters
