@@ -1,6 +1,6 @@
 ## LAB: Referer-Based Access Control
 
-**Vuln:** Broken Access Control - server trusts Referer header to verify admin origin
+**Vulnerability:** Broken Access Control - server trusts Referer header to verify admin origin
 
 **Steps:**
 - As admin, upgrade a user and capture the request in Burp — note `Referer: /admin`
