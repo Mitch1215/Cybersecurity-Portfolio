@@ -1,7 +1,7 @@
 
 ## LAB: Insecure Direct Object References (IDOR)
 
-**Vuln:** IDOR - sequential filenames in download requests allow access to other users' files
+**Vulnerability:** IDOR - sequential filenames in download requests allow access to other users' files
 
 **Steps:**
 - Use the live chat and download your transcript
