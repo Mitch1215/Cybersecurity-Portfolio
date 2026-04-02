@@ -1,6 +1,6 @@
 ## LAB: User ID Controlled by Request Parameter with Password Disclosure
 
-**Vuln:** Horizontal to Vertical Privilege Escalation - password visible in response, ID swappable in URL
+**Vulnerability:** Horizontal to Vertical Privilege Escalation - password visible in response, ID swappable in URL
 
 **Steps:**
 - Sign in and navigate to your account, note `id=` value in URL
