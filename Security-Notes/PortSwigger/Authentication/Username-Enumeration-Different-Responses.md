@@ -1,6 +1,6 @@
 ## LAB: Username Enumeration via Different Responses
 
-**Vuln:** Broken Authentication - different error messages reveal valid usernames
+**Vulnerability:** Broken Authentication - different error messages reveal valid usernames
 
 **Steps:**
 - Submit invalid username/password and capture request in Burp
