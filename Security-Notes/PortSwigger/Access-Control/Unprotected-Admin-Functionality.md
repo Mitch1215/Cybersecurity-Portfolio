@@ -1,5 +1,6 @@
 ## LAB: Unprotected Admin Functionailty
 **Vulnerability:** Broken Access Control - admin panel exposed via robots.txt
+
 **Steps:**
 - Navigate to `/robots.txt` and look for disallowed directories
 - Manually browse to any sensitive paths listed
