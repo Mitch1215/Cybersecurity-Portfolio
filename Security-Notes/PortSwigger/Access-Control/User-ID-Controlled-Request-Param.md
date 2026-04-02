@@ -1,6 +1,6 @@
 ## LAB: User ID Controlled by Request Parameter
 
-**Vuln:** Horizontal Broken Access Control — user ID exposed and trusted in URL
+**Vuln:** Horizontal Broken Access Control - user ID exposed and trusted in URL
 
 **Steps:**
 - Note your username in the URL: `my-account?id=wiener`
