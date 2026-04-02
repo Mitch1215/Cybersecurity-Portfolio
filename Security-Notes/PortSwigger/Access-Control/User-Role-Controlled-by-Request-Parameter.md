@@ -1,6 +1,6 @@
 ## LAB: User Role Controlled by Request Parameter
 
-**Vulnerability:** Broken Access Control — admin status controlled by client-side cookie parameter
+**Vulnerability:** Broken Access Control - admin status controlled by client-side cookie parameter
 
 **Steps:**
 - Sign in and intercept navigation to `/admin` in Burp
