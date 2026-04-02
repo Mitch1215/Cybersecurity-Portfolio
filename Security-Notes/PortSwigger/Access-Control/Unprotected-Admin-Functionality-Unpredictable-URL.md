@@ -1,6 +1,6 @@
 ## LAB: Unprotected Admin Functionality with Unpredictable URL
 
-**Vuln:** Broken Access Control - admin panel URL hidden but exposed in client-side JavaScript
+**Vulnerability:** Broken Access Control - admin panel URL hidden but exposed in client-side JavaScript
 
 **Steps:**
 - View page source (Ctrl+U or right-click → View Source)
